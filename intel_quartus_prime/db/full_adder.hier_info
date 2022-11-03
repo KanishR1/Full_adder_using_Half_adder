@@ -1,0 +1,26 @@
+|full_adder
+a => w1.IN1
+b => b.IN1
+cin => cin.IN1
+sum <= half_subtractor:H2.diff
+cout <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_adder|half_subtractor:H1
+a => diff.IN0
+a => br.IN0
+b => diff.IN1
+b => br.IN1
+diff <= diff.DB_MAX_OUTPUT_PORT_TYPE
+br <= br.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_adder|half_subtractor:H2
+a => diff.IN0
+a => br.IN0
+b => diff.IN1
+b => br.IN1
+diff <= diff.DB_MAX_OUTPUT_PORT_TYPE
+br <= br.DB_MAX_OUTPUT_PORT_TYPE
+
+

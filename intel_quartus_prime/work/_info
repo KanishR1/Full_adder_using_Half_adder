@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Maven_Internship/Lab_work_Kanish/Assignment_3
+vfull_adder
+Z0 !s110 1658513807
+!i10b 1
+!s100 dg:g[fc<5?`VNJ=AgXo_;0
+I[bg;DP7>>G@lg6EU`WD^13
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Maven_Internship/Lab_work_Kanish/Assignment_4
+Z3 w1658512934
+Z4 8E:/Maven_Internship/Lab_work_Kanish/Assignment_4/full_adder.v
+Z5 FE:/Maven_Internship/Lab_work_Kanish/Assignment_4/full_adder.v
+L0 8
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1658513807.000000
+Z8 !s107 E:/Maven_Internship/Lab_work_Kanish/Assignment_4/full_adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/Maven_Internship/Lab_work_Kanish/Assignment_4/full_adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vhalf_subtractor
+R0
+!i10b 1
+!s100 2[Og9AK2aCQSd7C0f7STk3
+I0BDK>DPH4C;a;NjAjAAMI3
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_full_adder
+R0
+!i10b 1
+!s100 i3<JC?;hB`7n;f<lJ_`1a3
+Ij9a2[@i3Gk?OAcoD`FHV<2
+R1
+R2
+w1658513800
+8E:/Maven_Internship/Lab_work_Kanish/Assignment_4/tb_full_adder.v
+FE:/Maven_Internship/Lab_work_Kanish/Assignment_4/tb_full_adder.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/Maven_Internship/Lab_work_Kanish/Assignment_4/tb_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Maven_Internship/Lab_work_Kanish/Assignment_4/tb_full_adder.v|
+!i113 1
+R10
+R11
